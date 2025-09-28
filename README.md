@@ -32,6 +32,8 @@ Pada menu kedua, MANAGER dapat melihat data dari reservasi yang telah ditambahka
 # Handling error
 
 <img width="422" height="245" alt="Screenshot 2025-09-28 202427" src="https://github.com/user-attachments/assets/2fae5e57-b5c9-4310-b98f-baf68d8ec117" />
+
+
 pada handling error akan muncul peringatan bahwa harus mengisi dengan angka tidak bisa huruf
 
 
